@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88602276c00d9800",
+        "id": "cf788d9ab296f04b",
         "type": "tabs",
         "children": [
           {
-            "id": "3c3f64513883945c",
+            "id": "6492d7d23bf9c024",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c3f64513883945c",
+  "active": "6492d7d23bf9c024",
   "lastOpenFiles": [
-    "tests/functional/folder-structure.md",
+    "demo-project/README.md",
+    "img/design-diagram.PNG",
+    "img/design-diagram.png.md",
+    "img",
     "tests/functional/README.md",
+    "tests/functional/folder-structure.md",
     "Untitled.canvas",
     "tests/functional",
     "tests/performance",

@@ -1,4 +1,4 @@
-# Readme
+# Index
 In this folder we will be documenting how the functional automation framework is going to be structured.
 
 We will include the following main topics:
