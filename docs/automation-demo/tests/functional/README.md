@@ -1,9 +1,9 @@
 # Readme
-In this folder we will be documenting how the functional automation freamwrok is going to be structured.
+In this folder we will be documenting how the functional automation framework is going to be structured.
 
-We will include the follwing main topics:
+We will include the following main topics:
 
-- Folder structure
+- [Folder Structure](folder-structure.md)
 - Frameworks to use
 - Coding standards
 - Tools to use
@@ -11,4 +11,4 @@ We will include the follwing main topics:
 - Design Patterns
 - Framework Design Diagrams
 - GH Actions if required
-- Dependancies
+- Dependencies
