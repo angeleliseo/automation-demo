@@ -4,5 +4,5 @@ After conversation with product side (PO) and Developer (Tech Lead) it has been 
 
 Based on the above the following test case was created:
 
-![Design Diagram](../../img/test-case.PNG)
+![Design Diagram](../../img/test-case.png)
 
