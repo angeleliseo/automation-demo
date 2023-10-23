@@ -8,7 +8,7 @@ It will be considered the following:
 - Underlying application infrastructure
 - Technology stack
 - Performance Testing tool
-- Critical Scenarios to consider based on product needs
+- [Critical customer scenarios to cover](test-cases.md)
 - [Required Data for the Test](required-data.md)
 - SLOs
 - KPI to consider for the application under test
