@@ -23,3 +23,9 @@
 ### Status Codes Over Time
 
 ![Threads](../../img/status-code-over-time.png)
+
+### CPU stats
+
+![Threads](../../img/cpu-linux.png)
+
+![Threads](../../img/cpu-nmon.png)
