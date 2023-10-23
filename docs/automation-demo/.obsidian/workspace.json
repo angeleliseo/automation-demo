@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tests/performance/workload-model.md",
+                "file": "tests/performance/execution-log.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tests/performance/workload-model.md",
+                "file": "tests/performance/execution-log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tests/performance/workload-model.md",
+                "file": "tests/performance/execution-log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tests/performance/workload-model.md"
+                "file": "tests/performance/execution-log.md"
               }
             }
           }
@@ -150,7 +150,20 @@
   "active": "b008c4c9fad153c2",
   "lastOpenFiles": [
     "tests/performance/README.md",
+    "tests/performance/recomendations.md",
+    "tests/performance/execution-log.md",
+    "img/response-time-over-time.png",
+    "img/threads-over-time.png",
+    "img/status-code-over-time.png",
+    "img/tps-over-time.png",
+    "img/java_obXDNaeqNd.png",
+    "img/java_nmxtuW9eHV.png",
+    "img/i8qOrSTzsM.png",
+    "img/java_sWQi86gZVu.png",
     "tests/performance/workload-model.md",
+    "tests/performance/test-cases.md",
+    "tests/performance/slo.md",
+    "tests/performance/monitoring.md",
     "artifacts/FB32B000",
     "img/uvdesk-workload-model.png",
     "img/EXCEL_1jYP4NTMyB.png",
@@ -164,16 +177,11 @@
     "artifacts/D309A000",
     "artifacts/11E8A000",
     "tests/performance/performance-tool.md",
-    "tests/performance/slo.md",
-    "tests/performance/test-cases.md",
     "tests/performance/required-data.md",
     "demo-project/README.md",
-    "img/test-case.png",
-    "img/EXCEL_LISpvrFolM.png",
     "reqiured-data.md",
     "tests/functional/README.md",
     "tests/functional/folder-structure.md",
-    "img/design-diagram.png",
     "img/design-diagram.png.md",
     "Untitled.canvas"
   ]

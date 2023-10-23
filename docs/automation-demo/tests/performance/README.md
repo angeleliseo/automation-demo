@@ -12,12 +12,12 @@ It will be considered the following:
 - [Required Data for the Test](required-data.md)
 - [SLOs and KPI](slo.md)
 - [Workload Model](workload-model.md)
-- Monitoring and/or Observability
+- [Monitoring and/or Observability](monitoring.md)
 - Deliverables
 	- Reports
 - Performance Recommendations
-	- Analysis
-	- Possible Tuning
+	- [Analysis](execution-log.md)
+	- [Possible Tuning](recomendations.md)
 	- Concerns
 - Opportunity areas
 	- Debuggability
