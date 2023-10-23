@@ -7,11 +7,11 @@ It will be considered the following:
 - Performance Objetives of the product team
 - Underlying application infrastructure
 - Technology stack
-- Performance Testing tool
+- [Performance Testing tool](performance-tool.md)
 - [Critical customer scenarios to cover](test-cases.md)
 - [Required Data for the Test](required-data.md)
-- SLOs
-- KPI to consider for the application under test
+- [SLOs and KPI](slo.md)
+- [Workload Model](workload-model.md)
 - Monitoring and/or Observability
 - Deliverables
 	- Reports

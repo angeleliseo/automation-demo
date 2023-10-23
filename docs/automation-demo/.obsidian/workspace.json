@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tests/performance/test-cases.md",
+                "file": "tests/performance/workload-model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tests/performance/test-cases.md",
+                "file": "tests/performance/workload-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tests/performance/test-cases.md",
+                "file": "tests/performance/workload-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tests/performance/test-cases.md"
+                "file": "tests/performance/workload-model.md"
               }
             }
           }
@@ -149,9 +149,24 @@
   },
   "active": "b008c4c9fad153c2",
   "lastOpenFiles": [
-    "tests/performance/required-data.md",
     "tests/performance/README.md",
+    "tests/performance/workload-model.md",
+    "artifacts/FB32B000",
+    "img/uvdesk-workload-model.png",
+    "img/EXCEL_1jYP4NTMyB.png",
+    "artifacts/5701B000",
+    "artifacts/09D0B000",
+    "artifacts/D90BA000",
+    "artifacts/390BA000",
+    "artifacts/13FAA000",
+    "artifacts/A2FAA000",
+    "artifacts/1239A000",
+    "artifacts/D309A000",
+    "artifacts/11E8A000",
+    "tests/performance/performance-tool.md",
+    "tests/performance/slo.md",
     "tests/performance/test-cases.md",
+    "tests/performance/required-data.md",
     "demo-project/README.md",
     "img/test-case.png",
     "img/EXCEL_LISpvrFolM.png",
@@ -159,13 +174,7 @@
     "tests/functional/README.md",
     "tests/functional/folder-structure.md",
     "img/design-diagram.png",
-    "img/design-diagram",
     "img/design-diagram.png.md",
-    "img",
-    "Untitled.canvas",
-    "tests/functional",
-    "tests/performance",
-    "tests",
-    "demo-project"
+    "Untitled.canvas"
   ]
 }
