@@ -12,5 +12,5 @@ The application under test is deployed as follows:
 	- 2 vCPUs
 - **Docker**: Docker Engine has been used to abstract the packaging of the deployment of the application under test
 
-![Design Diagram](img/design-diagram.png "Design Diagram")
+![Design Diagram](../img/design-diagram.png)
 
