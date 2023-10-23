@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "demo-project/README.md",
+                "file": "tests/performance/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "demo-project/README.md",
+                "file": "tests/performance/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "demo-project/README.md",
+                "file": "tests/performance/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "demo-project/README.md"
+                "file": "tests/performance/README.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "6492d7d23bf9c024",
   "lastOpenFiles": [
+    "demo-project/README.md",
+    "tests/performance/README.md",
     "img/design-diagram.png",
     "img/design-diagram",
-    "demo-project/README.md",
     "tests/functional/README.md",
     "img/design-diagram.png.md",
     "img",
