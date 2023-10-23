@@ -9,6 +9,7 @@ It will be considered the following:
 - Technology stack
 - Performance Testing tool
 - Critical Scenarios to consider based on product needs
+- [Required Data for the Test](required-data.md)
 - SLOs
 - KPI to consider for the application under test
 - Monitoring and/or Observability
