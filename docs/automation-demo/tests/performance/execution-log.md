@@ -10,19 +10,19 @@
 
 ### Active Threads Over Time
 
-![Threads](../../img/threads-over-time.png)
+![Threads](../../img/threads-over-time2.png)
 
 ### TPS Over Time
 
-![Threads](../../img/tps-over-time.png)
+![Threads](../../img/tps-over-time2.png)
 
 ### Response Time Over Time
 
-![Threads](../../img/response-time-over-time.png)
+![Threads](../../img/response-time-over-time2.png)
 
 ### Status Codes Over Time
 
-![Threads](../../img/status-code-over-time.png)
+![Threads](../../img/status-code-over-time2.png)
 
 ### CPU stats
 

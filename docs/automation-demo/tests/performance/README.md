@@ -3,10 +3,9 @@ In this section it will be documented all the related performance information ab
 
 It will be considered the following:
 
-- Performance Concerns
-- Performance Objetives of the product team
-- Underlying application infrastructure
-- Technology stack
+- [Performance Concerns and Objectives](performance-concerns.md)
+- [Underlying application infrastructure](../../demo-project/README.md)
+	- Technology stack
 - [Performance Testing tool](performance-tool.md)
 - [Critical customer scenarios to cover](test-cases.md)
 - [Required Data for the Test](required-data.md)
@@ -18,7 +17,6 @@ It will be considered the following:
 - Performance Recommendations
 	- [Analysis](execution-log.md)
 	- [Possible Tuning](recomendations.md)
-	- Concerns
 - Opportunity areas
 	- Debuggability
 	- Resiliency
