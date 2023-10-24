@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tests/performance/execution-log.md",
+                "file": "demo-project/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tests/performance/execution-log.md",
+                "file": "demo-project/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tests/performance/execution-log.md",
+                "file": "demo-project/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tests/performance/execution-log.md"
+                "file": "demo-project/README.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "b008c4c9fad153c2",
   "lastOpenFiles": [
+    "tests/performance/execution-log.md",
+    "img/docker-stats.png",
+    "img/Tabby_NM1s51Y3bR.png",
     "img/cpu-nmon.png",
     "img/cpu-linux.png",
     "img/javaw_JLtx5XCjEh.png",
@@ -156,14 +159,10 @@
     "artifacts/uvdesk_231023_2110.nmon",
     "tests/performance/README.md",
     "tests/performance/recomendations.md",
-    "tests/performance/execution-log.md",
     "img/response-time-over-time.png",
     "img/threads-over-time.png",
     "img/status-code-over-time.png",
     "img/tps-over-time.png",
-    "img/java_obXDNaeqNd.png",
-    "img/java_nmxtuW9eHV.png",
-    "img/i8qOrSTzsM.png",
     "tests/performance/workload-model.md",
     "tests/performance/test-cases.md",
     "tests/performance/slo.md",

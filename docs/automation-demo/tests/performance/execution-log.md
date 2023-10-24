@@ -29,3 +29,7 @@
 ![Threads](../../img/cpu-linux.png)
 
 ![Threads](../../img/cpu-nmon.png)
+
+### Docker stats
+
+![Threads](../../img/docker-stats.png)
