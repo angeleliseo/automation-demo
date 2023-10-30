@@ -1,0 +1,73 @@
+[2023-10-26 00:24:51,496 INFO root] Taurus CLI Tool v1.16.26
+[2023-10-26 00:24:51,497 DEBUG root] Build: 14557 Fri Sep 22 06:30:08 UTC 2023
+[2023-10-26 00:24:51,497 DEBUG root] Extended git info:  93b5d487 Changelog for 1.16.26
+[2023-10-26 00:24:51,497 DEBUG root] Command-line options: {'log': 'C:\\Users\\Angel\\AppData\\Local\\Temp\\bzt_l00fotp_.log', 'option': None, 'quiet': None, 'verbose': None, 'no_system_configs': None, 'aliases': []}
+[2023-10-26 00:24:51,498 DEBUG root] Python: CPython 3.8.2
+[2023-10-26 00:24:51,498 DEBUG root] OS: uname_result(system='Windows', node='DESKTOP-JOP60NN', release='10', version='10.0.19041', machine='AMD64', processor='Intel64 Family 6 Model 42 Stepping 7, GenuineIntel')
+[2023-10-26 00:24:51,498 DEBUG root] Path to interpreter: c:\users\angel\appdata\local\programs\python\python38\python.exe
+[2023-10-26 00:24:51,498 DEBUG root] Path to packages: ['C:\\Users\\Angel\\AppData\\Local\\Programs\\Python\\Python38\\Scripts\\bzt.exe', 'c:\\users\\angel\\appdata\\local\\programs\\python\\python38\\python38.zip', 'c:\\users\\angel\\appdata\\local\\programs\\python\\python38\\DLLs', 'c:\\users\\angel\\appdata\\local\\programs\\python\\python38\\lib', 'c:\\users\\angel\\appdata\\local\\programs\\python\\python38', 'C:\\Users\\Angel\\AppData\\Roaming\\Python\\Python38\\site-packages', 'c:\\users\\angel\\appdata\\local\\programs\\python\\python38\\lib\\site-packages', 'c:\\users\\angel\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\win32', 'c:\\users\\angel\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\win32\\lib', 'c:\\users\\angel\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\Pythonwin']
+[2023-10-26 00:24:51,509 DEBUG root] Default python: E:\compilers\python\python.EXE
+[2023-10-26 00:24:51,530 DEBUG root] Default python3: C:\Users\Angel\AppData\Local\Microsoft\WindowsApps\python3.EXE
+[2023-10-26 00:24:51,530 DEBUG root] Adding personal config: C:\Users\Angel\.bzt-rc
+[2023-10-26 00:24:51,530 INFO root] No personal config found, creating one at C:\Users\Angel\.bzt-rc
+[2023-10-26 00:24:51,532 INFO root] Starting with configs: ['C:\\Users\\Angel\\.bzt-rc']
+[2023-10-26 00:24:51,533 INFO Engine] Configuring...
+[2023-10-26 00:24:51,708 DEBUG Engine] Base configs list: ['c:\\users\\angel\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\bzt\\resources/10-base-config.yml']
+[2023-10-26 00:24:51,708 DEBUG Engine.Configuration] Configs: ['c:\\users\\angel\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\bzt\\resources/10-base-config.yml']
+[2023-10-26 00:24:51,708 DEBUG Engine.Configuration] Reading c:\users\angel\appdata\local\programs\python\python38\lib\site-packages\bzt\resources/10-base-config.yml as YAML
+[2023-10-26 00:24:51,734 DEBUG Engine] User configs list: ['C:\\Users\\Angel\\.bzt-rc']
+[2023-10-26 00:24:51,735 DEBUG Engine.Configuration] Configs: ['C:\\Users\\Angel\\.bzt-rc']
+[2023-10-26 00:24:51,735 DEBUG Engine.Configuration] Reading C:\Users\Angel\.bzt-rc as YAML
+[2023-10-26 00:24:51,740 DEBUG Engine.Configuration] Configs: ['C:\\Users\\Angel\\.bzt-rc']
+[2023-10-26 00:24:51,741 DEBUG Engine.Configuration] Reading C:\Users\Angel\.bzt-rc as YAML
+[2023-10-26 00:24:51,745 INFO HTTPClient] Proxy settings not set
+[2023-10-26 00:24:51,755 DEBUG Engine] Requesting updates info: https://gettaurus.org/updates/?version=1.16.26&installID=windows-8c882b028c49
+[2023-10-26 00:24:51,755 INFO Engine] Artifacts dir: E:\code\automation-demo\uvdesk-framework\performance\2023-10-26_00-24-51.755016
+[2023-10-26 00:24:51,755 DEBUG HTTPClient] Making HTTP request GET https://gettaurus.org/updates/?version=1.16.26&installID=windows-8c882b028c49
+[2023-10-26 00:24:51,758 DEBUG Engine] New artifact filename: E:\code\automation-demo\uvdesk-framework\performance\2023-10-26_00-24-51.755016\effective
+[2023-10-26 00:24:51,760 DEBUG urllib3.connectionpool] Starting new HTTPS connection (1): gettaurus.org:443
+[2023-10-26 00:24:51,761 DEBUG Engine.Configuration] Dumping YAML config into E:\code\automation-demo\uvdesk-framework\performance\2023-10-26_00-24-51.755016\effective.yml
+[2023-10-26 00:24:51,781 DEBUG Engine.Configuration] Dumping JSON config into E:\code\automation-demo\uvdesk-framework\performance\2023-10-26_00-24-51.755016\effective.json
+[2023-10-26 00:24:51,782 DEBUG Engine] Add existing artifact (move=False): C:\Users\Angel\.bzt-rc
+[2023-10-26 00:24:51,782 DEBUG Engine] Copying C:\Users\Angel\.bzt-rc to E:\code\automation-demo\uvdesk-framework\performance\2023-10-26_00-24-51.755016\.bzt-rc
+[2023-10-26 00:24:51,783 DEBUG Engine] Set PYTHONPATH to :
+	CURRENT: '' +
+	TEMP: 'E:\code\automation-demo\uvdesk-framework\performance\2023-10-26_00-24-51.755016\python-packages\3.8.2' +
+	USER: 'C:\Users\Angel\.bzt\python-packages\3.8.2'
+[2023-10-26 00:24:51,783 DEBUG Engine] Content of user packages dir: []
+[2023-10-26 00:24:51,784 DEBUG Engine] OS env: OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES
+[2023-10-26 00:24:51,784 DEBUG Engine] OS env: TAURUS_ARTIFACTS_DIR=E:\code\automation-demo\uvdesk-framework\performance\2023-10-26_00-24-51.755016
+[2023-10-26 00:24:51,784 DEBUG root] Closing log handler: C:\Users\Angel\AppData\Local\Temp\bzt_l00fotp_.log
+[2023-10-26 00:24:51,787 DEBUG root] Switched writing logs to E:\code\automation-demo\uvdesk-framework\performance\2023-10-26_00-24-51.755016\bzt.log
+[2023-10-26 00:24:51,788 DEBUG root] Linting config
+[2023-10-26 00:24:51,790 INFO Engine] Preparing...
+[2023-10-26 00:24:51,791 DEBUG Engine] Module config: consolidator {'class': 'bzt.modules.aggregator.ConsolidatingAggregator'}
+[2023-10-26 00:24:51,791 DEBUG root] Importing module: bzt.modules.aggregator
+[2023-10-26 00:24:52,048 DEBUG root] Loading class: 'ConsolidatingAggregator' from <module 'bzt.modules.aggregator' from 'c:\\users\\angel\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\bzt\\modules\\aggregator.py'>
+[2023-10-26 00:24:52,049 DEBUG Engine.consolidator] Buffer scaling setup: percentile 95.0 from [0.0, 50.0, 90.0, 95.0, 99.0, 99.9, 100.0] selected
+[2023-10-26 00:24:52,049 DEBUG Engine] Module config: monitoring {'class': 'bzt.modules.monitoring.Monitoring'}
+[2023-10-26 00:24:52,049 DEBUG root] Importing module: bzt.modules.monitoring
+[2023-10-26 00:24:52,051 DEBUG root] Loading class: 'Monitoring' from <module 'bzt.modules.monitoring' from 'c:\\users\\angel\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\bzt\\modules\\monitoring.py'>
+[2023-10-26 00:24:52,051 INFO Engine.monitoring.LocalClient] Using StandardLocalMonitor for engine health monitoring
+[2023-10-26 00:24:52,052 DEBUG Engine] Module config: local {'class': 'bzt.modules.provisioning.Local'}
+[2023-10-26 00:24:52,052 DEBUG root] Importing module: bzt.modules.provisioning
+[2023-10-26 00:24:52,052 DEBUG root] Loading class: 'Local' from <module 'bzt.modules.provisioning' from 'c:\\users\\angel\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\bzt\\modules\\provisioning.py'>
+[2023-10-26 00:24:52,052 ERROR root] Config Error: No 'execution' is configured. Did you forget to pass config files?
+[2023-10-26 00:24:52,055 DEBUG root] TaurusConfigError: No 'execution' is configured. Did you forget to pass config files?
+  File "c:\users\angel\appdata\local\programs\python\python38\lib\site-packages\bzt\cli.py", line 275, in perform
+    self.engine.prepare()
+  File "c:\users\angel\appdata\local\programs\python\python38\lib\site-packages\bzt\engine\engine.py", line 220, in prepare
+    self.__prepare_provisioning()
+  File "c:\users\angel\appdata\local\programs\python\python38\lib\site-packages\bzt\engine\engine.py", line 635, in __prepare_provisioning
+    self.provisioning.prepare()
+  File "c:\users\angel\appdata\local\programs\python\python38\lib\site-packages\bzt\modules\provisioning.py", line 69, in prepare
+    super(Local, self).prepare()
+  File "c:\users\angel\appdata\local\programs\python\python38\lib\site-packages\bzt\engine\modules.py", line 129, in prepare
+    raise exc
+[2023-10-26 00:24:52,056 INFO Engine] Post-processing...
+[2023-10-26 00:24:52,056 DEBUG Engine.consolidator] Consolidator buffer[0]: dict_keys([])
+[2023-10-26 00:24:52,059 DEBUG Engine.Configuration] Dumping YAML config into E:\code\automation-demo\uvdesk-framework\performance\2023-10-26_00-24-51.755016\effective.yml
+[2023-10-26 00:24:52,082 DEBUG Engine.Configuration] Dumping JSON config into E:\code\automation-demo\uvdesk-framework\performance\2023-10-26_00-24-51.755016\effective.json
+[2023-10-26 00:24:52,083 INFO root] Artifacts dir: E:\code\automation-demo\uvdesk-framework\performance\2023-10-26_00-24-51.755016
+[2023-10-26 00:24:52,084 WARNING root] Done performing with code: 1
+[2023-10-26 00:24:52,085 DEBUG root] Closing log handler: E:\code\automation-demo\uvdesk-framework\performance\2023-10-26_00-24-51.755016\bzt.log

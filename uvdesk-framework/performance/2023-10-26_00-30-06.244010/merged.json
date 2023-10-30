@@ -1,0 +1,10 @@
+{
+ "execution": [
+  {
+   "executor": "jmeter",
+   "scenario": {
+    "script": "uvdesk_tc001_ticket_creation.jmx"
+   }
+  }
+ ]
+}

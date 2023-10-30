@@ -12,22 +12,8 @@ It will be considered the following:
 - [SLOs and KPI](slo.md)
 - [Workload Model](workload-model.md)
 - [Monitoring and/or Observability](monitoring.md)
-- Deliverables
-	- Round 1
-		- Scripts and Scenarios
-		- HTML Reports
-		- Application Performance Management
-	- Round 2
-		- Scripts and Scenarios
-		- HTML Reports
-		- Application Performance Management
-- Performance Recommendations
-	- Round 1
-		- [Analysis](execution-log-r1.md)
-		- [Possible Tuning](recomendations-r1.md)
-	- Round 2
-		- Analysis
-		- Possible Tuning
+- [Deliverables](../../artifacts/README.md)
+- [Performance Recommendations](../../artifacts/README.md)
 - Opportunity areas
 	- Debuggability
 	- Resiliency
