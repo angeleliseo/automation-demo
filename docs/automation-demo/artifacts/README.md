@@ -10,10 +10,10 @@ When no link is provided for Scripts and scenarios that means the script located
 - [Analysis](round1/execution-log-r1.md)
 - [Recommendations](round1/recomendations-r1.md)
 ### Round 2
-- Scripts and Scenarios
+- Scripts and Scenarios (No change)
 - [JMeter HTML report](round2/README.md)
-- Analysis 
-- Recommendations
+- [Analysis](round2/execution-log-r2.md)
+- [Recommendations](round2/recommendations-r2.md)
 ### Round 3
 - Scripts and Scenarios
 - Raw Results (jmeter, nmon)
