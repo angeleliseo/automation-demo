@@ -74,3 +74,47 @@ delete from uv_ticket;
 > [!important]
 > This can be done in that simple way due to the database has all the FK configured in the right way and cascade options are setup.
 
+---
+## Cleaning mysql DB 
+
+### How to connect docker container
+
+~~~shell
+sudo docker exec -ti 96019da746eb sh
+~~~
+
+### How to connect mysql
+
+~~~shell
+mysql -h localhost -u root -p uvdesk
+~~~
+
+### Check the space consumed for all the DB
+
+~~~sql
+SELECT 
+    table_schema 'Database Name',
+    SUM(data_length + index_length) 'Size in Bytes',
+    ROUND(SUM(data_length + index_length) / 1024 / 1024, 2) 'Size in MiB'
+FROM information_schema.tables 
+GROUP BY table_schema;
+~~~
+
+Expected output:
+
+~~~
++--------------------+---------------+-------------+                          
+| Database Name      | Size in Bytes | Size in MiB |                          
++--------------------+---------------+-------------+                          
+| information_schema |        163840 |        0.16 |                          
+| mysql              |       8132559 |        7.76 |                          
+| performance_schema |             0 |        0.00 |                          
+| sys                |         16384 |        0.02 |                          
+| uvdesk             |       1851392 |        1.77 |                          
++--------------------+---------------+-------------+                          
+
+5 rows in set (2.10 sec)
+~~~
+
+
+
