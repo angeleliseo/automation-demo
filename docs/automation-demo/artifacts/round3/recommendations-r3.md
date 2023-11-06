@@ -98,3 +98,20 @@ tmpfs                              5.0M     0  5.0M   0% /run/lock
 tmpfs                              618M  4.0K  618M   1% /run/user/1000
 ~~~
 
+### Suggested Infrastructure Changes
+
+Since there is yet some problems related to processing (number of CPUs) with the objective of handling better the load and also to provide a better designed solution, it has been suggested to the DevOps team to create a cluster for the application side. 
+Since DB server looks right it can remain in a single server or high-availability cluster depending availability needs. 
+Application cluster is suggested to be a Load Balancer cluster having 2 servers of the following hardware specs:
+
+- 4 vCPUs
+- 6GB RAM
+- 20 GB disk partition for the application
+- External Centralized Logging solution such Splunk or Kivana
+- Configure Symphony and Docker to point logs to centralized solution
+- Consider use CDN or redis DB for caching instead a local cache solution
+
+
+> [!important]
+> A new iteration of execution has to be done once the suggested changes are implemented.
+
