@@ -16,8 +16,8 @@ When no link is provided for Scripts and scenarios that means the script located
 - [Recommendations](round2/recommendations-r2.md)
 ### Round 3
 - Scripts and Scenarios (No change)
-- [Raw Results](rawdata/) (jmeter, nmon)
-- [JMeter HTML report](html_report/)
-- [NMon Report](uvdesk_231103_1126.nmon.xlsx)
-- [Analysis](execution-log-r3.md)
-- [Recommendations](recommendations-r3.md)
+- [Raw Results](round3/rawdata/) (jmeter, nmon)
+- [JMeter HTML report](round3/html_report/)
+- [NMon Report](round3/uvdesk_231103_1126.nmon.xlsx)
+- [Analysis](round3/execution-log-r3.md)
+- [Recommendations](round3/recommendations-r3.md)

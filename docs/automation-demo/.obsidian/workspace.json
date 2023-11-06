@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "artifacts/round3/recommendations-r3.md",
+                "file": "artifacts/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "artifacts/round3/recommendations-r3.md",
+                "file": "artifacts/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "artifacts/round3/recommendations-r3.md",
+                "file": "artifacts/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "artifacts/round3/recommendations-r3.md"
+                "file": "artifacts/README.md"
               }
             }
           }
@@ -149,12 +149,14 @@
   },
   "active": "522b58ecea1691d7",
   "lastOpenFiles": [
+    "artifacts/round3/execution-log-r3.md",
+    "artifacts/README.md",
+    "round3/rawdata.md",
+    "round3",
+    "artifacts/round3/recommendations-r3.md",
     "artifacts/round2/recommendations-r2.md",
     "artifacts/round1/recomendations-r1.md",
     "artifacts/round1/execution-log-r1.md",
-    "artifacts/round3/recommendations-r3.md",
-    "artifacts/round3/execution-log-r3.md",
-    "artifacts/README.md",
     "artifacts/round3/img/memory_rt2_r3.png",
     "artifacts/round3/img/memory_rt_r3.png",
     "artifacts/round3/img/jmeter_r3.png",
@@ -178,7 +180,6 @@
     "artifacts/round3/rawdata",
     "artifacts/round3/ReportGenerator_20231104_030915.log",
     "artifacts/round3/ReportGenerator_20231104_030627.log",
-    "artifacts/round3/ReportGenerator_20231104_030103.log",
     "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/metisMenu/README.md",
     "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/flot-axislabels/README.md",
     "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/flot/README.md",
@@ -194,7 +195,6 @@
     "artifacts/round2/README.md",
     "demo-project/README.md",
     "artifacts/round2/html_report_r1/sbadmin2-1.0.7/bower_components/flot/NEWS.md",
-    "artifacts/round2/html_report_r1/sbadmin2-1.0.7/bower_components/flot/CONTRIBUTING.md",
     "Untitled.canvas"
   ]
 }
