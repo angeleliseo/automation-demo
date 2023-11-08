@@ -11,12 +11,8 @@
             "id": "522b58ecea1691d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "artifacts/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "artifacts/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "artifacts/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "artifacts/README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,8 +141,10 @@
   },
   "active": "522b58ecea1691d7",
   "lastOpenFiles": [
-    "artifacts/round3/execution-log-r3.md",
+    "tests/functional/folder-structure.md",
     "artifacts/README.md",
+    "tests/performance/README.md",
+    "artifacts/round3/execution-log-r3.md",
     "round3/rawdata.md",
     "round3",
     "artifacts/round3/recommendations-r3.md",
@@ -174,7 +168,6 @@
     "artifacts/round3/rawdata/log.jtl",
     "artifacts/round3/README.md",
     "tests/performance/slo.md",
-    "tests/performance/README.md",
     "artifacts/round3/charts",
     "artifacts/round3/ReportGenerator_20231104_031124.log",
     "artifacts/round3/rawdata",
@@ -194,7 +187,6 @@
     "tests/performance/workload-model.md",
     "artifacts/round2/README.md",
     "demo-project/README.md",
-    "artifacts/round2/html_report_r1/sbadmin2-1.0.7/bower_components/flot/NEWS.md",
     "Untitled.canvas"
   ]
 }
