@@ -6,4 +6,4 @@ Also it has a strong community that creates good documentation and plugins that 
 
 ### [Official page](https://code.visualstudio.com/)
 
-![[vs-code.png]]
+![vs-code](img/vs-code.png)

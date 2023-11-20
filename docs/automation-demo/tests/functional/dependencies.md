@@ -7,7 +7,7 @@ Python 3 was chosen to used for being easy to learn, flexible to use on differen
 
 First this has to be installed in the developer sandbox from the [official page](https://www.python.org/downloads/) and added to environment variables.
 
-![[python_path.png]]
+![python_path](img/python_path.png)
 
 ### Modules and Dependency Manger
 

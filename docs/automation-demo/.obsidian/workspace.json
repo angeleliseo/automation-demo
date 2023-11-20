@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tests/functional/dependencies.md",
+                "file": "tests/functional/ide-to-work.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tests/functional/dependencies.md",
+                "file": "tests/functional/ide-to-work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tests/functional/dependencies.md",
+                "file": "tests/functional/ide-to-work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tests/functional/dependencies.md"
+                "file": "tests/functional/ide-to-work.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "522b58ecea1691d7",
   "lastOpenFiles": [
+    "tests/functional/folder-structure.md",
+    "tests/functional/ide-to-work.md",
+    "tests/functional/dependencies.md",
     "tests/functional/README.md",
     "tests/functional/tools.md",
-    "tests/functional/ide-to-work.md",
-    "tests/functional/folder-structure.md",
     "img/vs-code.png",
-    "tests/functional/dependencies.md",
     "img/python_path.png",
     "dependencies.md",
     "artifacts/README.md",
