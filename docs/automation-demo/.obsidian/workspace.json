@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tests/functional/README.md",
+                "file": "tests/functional/dependencies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tests/functional/README.md",
+                "file": "tests/functional/dependencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tests/functional/README.md",
+                "file": "tests/functional/dependencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tests/functional/README.md"
+                "file": "tests/functional/dependencies.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "522b58ecea1691d7",
   "lastOpenFiles": [
-    "tests/functional/tools.md",
     "tests/functional/README.md",
+    "tests/functional/tools.md",
     "tests/functional/ide-to-work.md",
     "tests/functional/folder-structure.md",
     "img/vs-code.png",
