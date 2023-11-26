@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "04deefb97bed7761",
+        "id": "a7e16b98a1e00bbd",
         "type": "tabs",
         "children": [
           {
-            "id": "522b58ecea1691d7",
+            "id": "ed1abd4affef868f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "artifacts/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6cbe1c404edecbb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tests/functional/dependencies.md",
+                "file": "tests/functional/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tests/functional/dependencies.md",
+                "file": "tests/functional/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tests/functional/dependencies.md",
+                "file": "tests/functional/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tests/functional/dependencies.md"
+                "file": "tests/functional/README.md"
               }
             }
           }
@@ -147,24 +162,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "522b58ecea1691d7",
+  "active": "6cbe1c404edecbb9",
   "lastOpenFiles": [
+    "artifacts/round3/recommendations-r3.md",
+    "artifacts/README.md",
+    "artifacts/round3/execution-log-r3.md",
+    "artifacts/round2/recommendations-r2.md",
+    "artifacts/round2/execution-log-r2.md",
+    "tests/performance/README.md",
     "tests/functional/folder-structure.md",
-    "tests/functional/ide-to-work.md",
+    "artifacts/round1/recomendations-r1.md",
+    "training-notes.md",
+    "notes",
     "tests/functional/dependencies.md",
+    "tests/functional/ide-to-work.md",
     "tests/functional/README.md",
     "tests/functional/tools.md",
     "img/vs-code.png",
     "img/python_path.png",
     "dependencies.md",
-    "artifacts/README.md",
-    "tests/performance/README.md",
-    "artifacts/round3/execution-log-r3.md",
     "round3/rawdata.md",
     "round3",
-    "artifacts/round3/recommendations-r3.md",
-    "artifacts/round2/recommendations-r2.md",
-    "artifacts/round1/recomendations-r1.md",
     "artifacts/round1/execution-log-r1.md",
     "artifacts/round3/img/memory_rt2_r3.png",
     "artifacts/round3/img/memory_rt_r3.png",
@@ -176,7 +194,6 @@
     "artifacts/round3/img/diskbusy_r3.png",
     "artifacts/round3/img",
     "artifacts/round3/Nueva carpeta",
-    "artifacts/round2/execution-log-r2.md",
     "artifacts/round3/rawdata/uvdesk_231103_1126.nmon",
     "artifacts/round3/rawdata/log.jtl",
     "artifacts/round3/README.md",
@@ -185,7 +202,6 @@
     "artifacts/round3/ReportGenerator_20231104_031124.log",
     "artifacts/round3/rawdata",
     "artifacts/round3/ReportGenerator_20231104_030915.log",
-    "artifacts/round3/ReportGenerator_20231104_030627.log",
     "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/metisMenu/README.md",
     "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/flot-axislabels/README.md",
     "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/flot/README.md",
@@ -194,7 +210,6 @@
     "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/flot/FAQ.md",
     "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/flot/CONTRIBUTING.md",
     "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/flot/API.md",
-    "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/bootstrap/README.md",
     "Untitled.canvas"
   ]
 }

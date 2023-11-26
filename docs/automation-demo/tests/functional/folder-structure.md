@@ -23,6 +23,7 @@ project_name/
 ├─ pytest.ini
 ├─ tox.ini
 ├─ make
+├─ .gitignore
 ├─ requirements.txt
 ~~~
 
@@ -43,3 +44,4 @@ Folder structure explanation in detail:
 - **tox.ini**: File that will be used to configure some aspects of the tools used for the framework, such pycodestyle.
 - **requirements.txt**: File that will be used to declare which are the dependencies of the project to be executed correctly (python libs used).
 - **make**: File that will be used to simplify the execution of some commands (automations).
+- **.gitignore**: File that will be used to exclude files and folders to be uploaded to the repo. This is useful for binaries used or created as a result of the tool execution or compilation process.
