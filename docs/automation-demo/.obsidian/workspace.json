@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tests/functional/README.md",
+                "file": "tests/functional/folder-structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tests/functional/README.md",
+                "file": "tests/functional/folder-structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tests/functional/README.md",
+                "file": "tests/functional/folder-structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tests/functional/README.md"
+                "file": "tests/functional/folder-structure.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   },
   "active": "6cbe1c404edecbb9",
   "lastOpenFiles": [
+    "tests/functional/README.md",
     "artifacts/round3/recommendations-r3.md",
     "artifacts/README.md",
     "artifacts/round3/execution-log-r3.md",
@@ -176,7 +177,6 @@
     "notes",
     "tests/functional/dependencies.md",
     "tests/functional/ide-to-work.md",
-    "tests/functional/README.md",
     "tests/functional/tools.md",
     "img/vs-code.png",
     "img/python_path.png",
