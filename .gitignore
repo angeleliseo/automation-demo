@@ -2,3 +2,6 @@ jmeter.log
 tools/
 training-notes.md
 drivers/
+.vscode/
+.pytest_cache/
+__pycache__/
