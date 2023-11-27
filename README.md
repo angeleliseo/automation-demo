@@ -9,8 +9,8 @@ This is divided on 2 main areas:
   - [Documentation](docs/automation-demo/tests/performance/README.md)
   - [Scripting/Framework](uvdesk-framework/performance)
 - Functional Automation Testing (WIP)
-  - Documentation
-  - Scripting/Framework
+  - [Documentation](docs/automation-demo/tests/functional/README.md)
+  - [Scripting/Framework](uvdesk-framework/functional)
 
 If you find anything I can improve on this project portfolio, please feel free to raise a bug, I will consider improvements that add value to the propose of the repository.
 
