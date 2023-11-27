@@ -4,7 +4,6 @@ from selenium.webdriver.common.by import By
 class LocatorLogin(object):
 
   def __init__(self, driver):
-    self.name_css = "my_page_name"
     assert isinstance(driver, webdriver.Chrome)
     self.txt_email = driver.find_element(
       By.CSS_SELECTOR, r"input[type='email']")
