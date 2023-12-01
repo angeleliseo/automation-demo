@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tests/functional/README.md",
+                "file": "training-notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tests/functional/README.md",
+                "file": "training-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tests/functional/README.md",
+                "file": "training-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tests/functional/README.md"
+                "file": "training-notes.md"
               }
             }
           }
@@ -164,9 +164,9 @@
   },
   "active": "6cbe1c404edecbb9",
   "lastOpenFiles": [
+    "tests/functional/README.md",
     "training-notes.md",
     "tests/functional/folder-structure.md",
-    "tests/functional/README.md",
     "artifacts/round3/recommendations-r3.md",
     "artifacts/README.md",
     "artifacts/round3/execution-log-r3.md",
