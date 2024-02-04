@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "training-notes.md",
+                "file": "artifacts/round2/recommendations-r2.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "training-notes.md",
+                "file": "artifacts/round2/recommendations-r2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "training-notes.md",
+                "file": "artifacts/round2/recommendations-r2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "training-notes.md"
+                "file": "artifacts/round2/recommendations-r2.md"
               }
             }
           }
@@ -164,26 +164,29 @@
   },
   "active": "6cbe1c404edecbb9",
   "lastOpenFiles": [
+    "artifacts/round2/README.md",
+    "artifacts/round2/execution-log-r2.md",
+    "artifacts/round1/recomendations-r1.md",
+    "artifacts/round1/README.md",
+    "artifacts/round1/execution-log-r1.md",
+    "demo-project/README.md",
+    "tests/functional/tools.md",
     "tests/functional/README.md",
-    "training-notes.md",
+    "tests/functional/ide-to-work.md",
     "tests/functional/folder-structure.md",
+    "tests/functional/dependencies.md",
+    "training-notes.md",
     "artifacts/round3/recommendations-r3.md",
     "artifacts/README.md",
     "artifacts/round3/execution-log-r3.md",
     "artifacts/round2/recommendations-r2.md",
-    "artifacts/round2/execution-log-r2.md",
     "tests/performance/README.md",
-    "artifacts/round1/recomendations-r1.md",
     "notes",
-    "tests/functional/dependencies.md",
-    "tests/functional/ide-to-work.md",
-    "tests/functional/tools.md",
     "img/vs-code.png",
     "img/python_path.png",
     "dependencies.md",
     "round3/rawdata.md",
     "round3",
-    "artifacts/round1/execution-log-r1.md",
     "artifacts/round3/img/memory_rt2_r3.png",
     "artifacts/round3/img/memory_rt_r3.png",
     "artifacts/round3/img/jmeter_r3.png",
@@ -207,9 +210,6 @@
     "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/flot/README.md",
     "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/flot/PLUGINS.md",
     "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/flot/NEWS.md",
-    "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/flot/FAQ.md",
-    "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/flot/CONTRIBUTING.md",
-    "artifacts/round3/html_report/sbadmin2-1.0.7/bower_components/flot/API.md",
     "Untitled.canvas"
   ]
 }
